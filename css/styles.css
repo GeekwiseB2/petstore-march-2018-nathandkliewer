@@ -1,0 +1,111 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+
+/ *header styles*/
+
+.brand {
+font-family: 'satisfy, cursive;'
+color; #fd837E; //base orange
+font-size: 24px;
+
+}
+.logo {height:92px}
+
+.nav-pills>li>a{ color:69B1E4;
+font-size: 32px;}
+.nav-pills li [background-color:transparent;]
+	<!-- scripts -->
+
+.img-thumbnail
+
+.Featured{
+	background-color:red
+  height: 150px;
+  width: 150px;
+}
+
+
+.main-box {
+  height: 150px;
+  width: 150px;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+.circle-background {
+  background-color: green;
+  border-radius: 100%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.center-text {
+  padding-top: 13px;
+  color: #fafafa;
+}
+body {
+  padding: 20px 0px;
+}
+
+.row>div {
+  background-color: #333;
+}
+
+.h-xs {
+  height: 20px
+}
+
+.h-sm {
+  height: 60px;
+}
+
+.h-md {
+  height: 200px;
+}
+
+.h-lg {
+  height: 200px;
+}
+
+.h-gap-sm {
+  margin: 0px 48px;
+}
+
+.row-one {
+  margin-bottom: 40px;
+  height: 60px;
+}
+
+.row-two {
+  margin-bottom: 80px;
+}
+
+.row-three {
+  margin-bottom: 40px;
+}
+
+.row-four {
+  margin-bottom: 80px;
+}
