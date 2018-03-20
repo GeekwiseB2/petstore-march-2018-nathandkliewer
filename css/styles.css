@@ -11,7 +11,7 @@ font-size: 24px;
 }
 .logo {height:92px}
 
-.nav-pills>li>a{ color:69B1E4;
+.nav-pills>li>a{ color:#69B1E4;
 font-size: 32px;}
 .nav-pills li [background-color:transparent;]
 	<!-- scripts -->
@@ -69,8 +69,7 @@ body {
   padding: 20px 0px;
 }
 
-.row>div {
-  background-color: #333;
+
 }
 
 .h-xs {
@@ -108,4 +107,15 @@ body {
 
 .row-four {
   margin-bottom: 80px;
+}
+footer.log {
+	position: relative;
+	line-height: -40px
+	/*only available when position int static */
+}
+
+/* Media Queries*/
+@media screen and (max-width: 992px)
+{footer. logo
+position: static;
 }
